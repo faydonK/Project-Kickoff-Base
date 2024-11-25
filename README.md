@@ -28,6 +28,6 @@ Welcome to the **Project Starter Base**! This repository is designed to help you
     ```
 ---
 
-<img src="https://faydonk.fr/media/img/L-modified.png" alt="GitHub Profile Picture" width="150">
+<img src="https://faydonk.fr/media/img/pfp-github.png" alt="GitHub Profile Picture" width="150">
 
 *Made with ❤ by faydonK*
