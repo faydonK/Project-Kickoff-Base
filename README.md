@@ -5,7 +5,6 @@ Welcome to the **Project Starter Base**! This repository is designed to help you
 ## ✨ Features
 
 - 📁 Organized folder structure
-- 🛠️ Pre-configured tools and libraries
 - 📜 Example code and templates
 - 📦 Easy setup and installation
 
@@ -29,6 +28,6 @@ Welcome to the **Project Starter Base**! This repository is designed to help you
     ```
 ---
 
-![GitHub Profile Picture](https://avatars.githubusercontent.com/u/yourusername?s=150)
+![GitHub Profile Picture](https://avatars.githubusercontent.com/u/faydonk?s=150)
 
 *Made with ❤ by faydonK*
