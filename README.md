@@ -1,4 +1,4 @@
-# 🚀 Project Kickoff Base
+# 📚 Project Kickoff Base
 
 Welcome to the **Project Starter Base**! This repository is designed to help you kickstart your project with a solid foundation. Whether you're building a web app, a mobile app, or any other type of software, this base will provide you with the essential structure and tools to get started quickly and efficiently.
 
